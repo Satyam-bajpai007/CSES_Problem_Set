@@ -13,4 +13,4 @@ while n!=1:
     else:
         n = n*3 + 1
         lst.append(n)
-    
+st=" ".join(lst)
