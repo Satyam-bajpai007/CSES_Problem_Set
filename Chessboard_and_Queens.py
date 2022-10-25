@@ -7,4 +7,3 @@
 # How many possible ways are there to place the queens?
 
 
-89
